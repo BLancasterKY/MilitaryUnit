@@ -1,0 +1,5 @@
+C:\Users\brand\source\repos\MilitaryUnitLibrary\bin\Debug\MilitaryUnitLibrary.dll
+C:\Users\brand\source\repos\MilitaryUnitLibrary\bin\Debug\MilitaryUnitLibrary.pdb
+C:\Users\brand\source\repos\MilitaryUnitLibrary\obj\Debug\MilitaryUnitClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\MilitaryUnitLibrary\obj\Debug\MilitaryUnitLibrary.dll
+C:\Users\brand\source\repos\MilitaryUnitLibrary\obj\Debug\MilitaryUnitLibrary.pdb
